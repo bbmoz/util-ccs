@@ -1,0 +1,6 @@
+[submodule "selenium-grid-cc"]
+	path = selenium-grid-cc
+	url = https://github.com/bbmoz/selenium-grid-cc
+[submodule "npm-registry-cc"]
+	path = npm-registry-cc
+	url = https://github.com/bbmoz/npm-registry-cc
